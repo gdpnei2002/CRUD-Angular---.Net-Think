@@ -7,3 +7,5 @@ bin/
 aspnet-core/src/projet.Web.Host/App_Data/Logs/
 aspnet-core/src/projet.Web.Mvc/App_Data/Logs/
 aspnet-core/src/projet.Migrator/Logs/Logs.txt
+
+angular/node_modules
